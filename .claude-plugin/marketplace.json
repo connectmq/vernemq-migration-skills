@@ -1,0 +1,16 @@
+{
+  "name": "connectmq-vernemq-migration",
+  "description": "ConnectMQ skills for migrating from VerneMQ to the ConnectMQ MQTT broker",
+  "owner": {
+    "name": "ConnectMQ",
+    "url": "https://connectmq.com"
+  },
+  "plugins": [
+    {
+      "name": "vernemq-migration-skills",
+      "source": "./",
+      "description": "Plan and execute a migration from a VerneMQ cluster to the ConnectMQ managed MQTT broker.",
+      "version": "1.0.0"
+    }
+  ]
+}

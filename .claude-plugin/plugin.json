@@ -1,0 +1,13 @@
+{
+  "name": "vernemq-migration-skills",
+  "version": "1.0.0",
+  "description": "Plan and execute a migration from a VerneMQ cluster to the ConnectMQ managed MQTT broker: config and plugin audit, ACL conversion, mountpoint and client ID mapping, vmq_bridge setup, waves and rollback.",
+  "author": {
+    "name": "ConnectMQ",
+    "url": "https://connectmq.com"
+  },
+  "homepage": "https://github.com/connectmq/vernemq-migration-skills",
+  "repository": "https://github.com/connectmq/vernemq-migration-skills",
+  "license": "MIT",
+  "keywords": ["mqtt", "vernemq", "migration", "connectmq", "mqtt-broker", "iot", "skills"]
+}
